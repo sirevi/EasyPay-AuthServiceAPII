@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "L3ffDgefZPkcYiFmkg0TTV2ueCnCXl7xfJ0nCMqGBOc=",
+  "Source": "EasyPay-AuthService",
+  "BasePath": "_content/EasyPay-AuthService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
